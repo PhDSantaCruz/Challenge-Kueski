@@ -1,1 +1,1 @@
-# Reto Kuesli MLOps
+# Reto Kueski MLOps
