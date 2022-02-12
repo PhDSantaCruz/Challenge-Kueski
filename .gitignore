@@ -1,0 +1,7 @@
+# ignore all .a files
+*.csv
+
+# only ignore the TODO file in the current directory, not subdir/TODO
+/Data
+/Features
+/Model
