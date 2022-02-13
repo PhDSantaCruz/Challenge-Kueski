@@ -8,5 +8,5 @@
 /Data
 /Features
 /Model
-/.ipynb_checkpoints
+/Notebook/.ipynb_checkpoints
 /FastAPI/__pycache__/
