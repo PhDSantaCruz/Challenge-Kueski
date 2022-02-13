@@ -1,7 +1,12 @@
 # ignore all .a files
 *.csv
+*.vscode
 
+
+*.pkl
 # only ignore the TODO file in the current directory, not subdir/TODO
 /Data
 /Features
 /Model
+/.ipynb_checkpoints
+/FastAPI/__pycache__/
